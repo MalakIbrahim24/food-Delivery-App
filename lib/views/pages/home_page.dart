@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
             ),
             const SizedBox(height: 16),
             SizedBox(
-              height: 17,
+              height: 120,
               child: ListView.builder(
                 itemCount: dummyCategories.length,
                 scrollDirection: Axis.horizontal,
